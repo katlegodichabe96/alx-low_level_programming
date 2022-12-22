@@ -1,18 +1,11 @@
-/**
-*
-*
-*
-*/
+#include "main.h"
 
 char *_strcat(char *dest, char *src)
 {
-int c, c2;
-c = 0
+int  index = 0, dest _len = 0;
+while (dest[index++]
+	dest_len++;
+for (index = 0; src[index]; index++)
+      dest[dest_len++] = src[index];
 
-while (dest[c])
-c++;
-
-for(c2 = 0; src[2]; c2++)
-dest[c++] = src[c2];
-
-return (dest);
+return(dest)
